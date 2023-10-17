@@ -1,0 +1,16 @@
+C:\Users\yustr\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Tugas 4 Calculator.exe
+C:\Users\yustr\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Tugas 4 Calculator.deps.json
+C:\Users\yustr\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Tugas 4 Calculator.runtimeconfig.json
+C:\Users\yustr\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Tugas 4 Calculator.dll
+C:\Users\yustr\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Tugas 4 Calculator.pdb
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.csproj.GenerateResource.cache
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.AssemblyInfoInputs.cache
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.AssemblyInfo.cs
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.dll
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Tugas 4 Calculator.dll
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.pdb
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Tugas 4 Calculator.genruntimeconfig.cache
+C:\Users\yustr\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Tugas 4 Calculator.dll
