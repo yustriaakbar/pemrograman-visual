@@ -1,0 +1,10 @@
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\bin\Debug\CRUD Mahasiswa.exe.config
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\bin\Debug\CRUD Mahasiswa.exe
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\bin\Debug\CRUD Mahasiswa.pdb
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.csproj.AssemblyReference.cache
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD_Mahasiswa.Properties.Resources.resources
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.csproj.GenerateResource.cache
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.exe
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD Mahasiswa.pdb
+C:\Users\yustr\source\repos\CRUD Mahasiswa\CRUD Mahasiswa\obj\Debug\CRUD_Mahasiswa.Form1.resources
